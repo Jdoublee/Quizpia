@@ -49,9 +49,9 @@
     <h2>그룹생성으로 이동하시겠습니까?</h2>
   </div>
   <div class="d-flex justify-content-center align-items-center">
-    <input class="btn btn-outline-success ml-1 mr-1" type="button" onclick="toMain()" value="홈으로">
-    <input class="btn btn-outline-success ml-1 mr-1" type="button" onclick="toCreate()" value="이전페이지로">
-    <input class="btn btn-outline-success ml-1 mr-1" type="button" onclick="tocreateG()" value="그룹생성으로">
+    <input class="btn btn-outline-success ml-1 mr-1" type="button" onclick="toMain()" value="홈으로" />
+    <input class="btn btn-outline-success ml-1 mr-1" type="button" onclick="toCreate()" value="이전페이지로" />
+    <input class="btn btn-outline-success ml-1 mr-1" type="button" onclick="tocreateG()" value="그룹생성으로" />
   </div>
 </body>
 <html>
