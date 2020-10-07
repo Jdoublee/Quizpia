@@ -1,5 +1,9 @@
 # Quizpia
 > **[2018-2] Internet Programming Term Project**
+>
+> origin 2020.10.3. 생성 
+>
+> api 및 key 부분 삭제 후 repo 다시 생성(2020.10.7.) 
 
 
 
